@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/110054625/181306546-d1f13bee-2c13-4381
 https://user-images.githubusercontent.com/110054625/181306673-320e3a8b-2717-40ab-81d6-78a5b444260a.mp4
 
 
-## Agora que os avisos já foram dados, vá agora para a aba themes.
+## Agora que os avisos já foram dados, vá agora para a aba  [Themes](https://github.com/TlkW/Better_discord_themes/tree/main/Themes) ou clique aqui.
 
 <details>
   <summary><b>Click here to view in English:</b></summary>
@@ -51,4 +51,4 @@ https://user-images.githubusercontent.com/110054625/181307253-2081181c-8ffb-423d
 https://user-images.githubusercontent.com/110054625/181307278-8d7afe5f-95eb-41a1-9a1e-93a7df54aa09.mp4
 
 
-## **Now that the warnings have been given, go now to the themes tab.**
+## **Now that the warnings have been given, go now to the  [Themes tab](https://github.com/TlkW/Better_discord_themes/tree/main/Themes) Or click here tab.**
