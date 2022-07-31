@@ -42,9 +42,9 @@ Profile:
   
   <details>
   <summary><b>Eris:</b></summary>
-  <br/
+  <br/>
 
-# 3.  [Eris](https://betterdiscord.app/theme/Eris)
+# 3. [Eris](https://betterdiscord.app/theme/Eris)
 
 ![Untitled (2)](https://user-images.githubusercontent.com/110054625/181310342-19d80d8d-36f7-41da-b7bf-f581376ad751.png)
 
