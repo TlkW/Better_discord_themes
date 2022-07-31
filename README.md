@@ -3,11 +3,11 @@
 
 # Better discord themes
 
-## Introdução:
+## 🚀 Introdução:
 
-Hoje, vou mostrar os melhores temas do [better discord](https://betterdiscord.app/), para você que tem dúvida, em qual usar.
+> Hoje, vou mostrar os melhores temas do [better discord](https://betterdiscord.app/), para você que tem dúvida, em qual usar.
 
-## Sobre os temas:
+## 📌 Sobre os temas:
 
  Aqui estão alguns temas que podem mudar completamente o seu discord ou adicionar alguma coisinha ou outra.
 
@@ -24,17 +24,17 @@ https://user-images.githubusercontent.com/110054625/181306546-d1f13bee-2c13-4381
 https://user-images.githubusercontent.com/110054625/181306673-320e3a8b-2717-40ab-81d6-78a5b444260a.mp4
 
 
-## Agora que os avisos já foram dados, vá agora para a aba  [Themes](https://github.com/TlkW/Better_discord_themes/tree/main/Themes) ou clique aqui.
+### Agora que os avisos já foram dados, vá agora para a aba Themes ou [clique aqui](https://github.com/TlkW/Better_discord_themes/tree/main/Themes).
 
 <details>
   <summary><b>Click here to view in English:</b></summary>
   <br/>
 
-## Introducion:
+## 🚀 Introducion:
 
-Today, I'm going to show you the best discord themes, for you who have doubts, which one to use.
+> Today, I'm going to show you the best discord themes, for you who have doubts, which one to use.
 
-## About the themes:
+## 📌 About the themes:
 
 Here are some themes that can completely change your discord or add a little thing or two.
 
@@ -51,4 +51,4 @@ https://user-images.githubusercontent.com/110054625/181307253-2081181c-8ffb-423d
 https://user-images.githubusercontent.com/110054625/181307278-8d7afe5f-95eb-41a1-9a1e-93a7df54aa09.mp4
 
 
-## **Now that the warnings have been given, go now to the  [Themes tab](https://github.com/TlkW/Better_discord_themes/tree/main/Themes) Or click here tab.**
+### **Now that the warnings have been given, go now to the Themes tab Or [click here tab](https://github.com/TlkW/Better_discord_themes/tree/main/Themes).**
