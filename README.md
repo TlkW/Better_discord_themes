@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/110054625/181306311-598d6e0f-99d9-4901-83a2-4e7500bebd03.png)
 
 
-# Better discord themes
+# 🌀 Better discord themes
 
 ## 🚀 Introdução:
 
