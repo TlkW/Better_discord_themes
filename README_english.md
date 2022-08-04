@@ -10,7 +10,7 @@ Here are some themes that can completely change your discord or add a little thi
 
 ## **[⚠️](https://emojipedia.org/warning/)** Warnings:
 
-Here, there will only be themes that are on the official list of the [betterdiscord] site ([https://betterdiscord.app/](https://betterdiscord.app/)) . So you don't have to worry. Also, better use discord with care as it is not made by the people who work at Discord and if you use it the wrong way you could end up getting **banned**.
+Here, there will only be themes that are on the official list of the  [better discord](https://betterdiscord.app/) . So you don't have to worry. Also, better use discord with care as it is not made by the people who work at Discord and if you use it the wrong way you could end up getting **banned**.
 
 
 <details>
