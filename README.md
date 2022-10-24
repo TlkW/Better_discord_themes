@@ -13,7 +13,7 @@
 
 ## [⚠️](https://emojipedia.org/warning/) Avisos:
 
-Aqui, estarão só temas que estão na lista oficial do site do better discord . Então não precisam se preocupar. Também, use o better discord com cuidado, pois ele não é feito pelos pessoas que trabalham no Discord e se você usar de forma **errada**, você pode acabar levando **ban**. 
+Aqui, estarão só temas que estão na lista oficial do site do better discord.Então não precisam se preocupar.Também, use o better discord com cuidado, pois ele não é feito pelas pessoas que trabalham no Discord e se você usar de forma **errada**, você pode acabar levando **ban**. 
 
 <details>
   <summary><b> 👇 Caso você ainda tenha dúvida sobre isso ou alguma dessas outras coisas veja esses vídeos:</b></summary>
